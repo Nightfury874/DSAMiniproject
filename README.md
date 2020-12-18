@@ -18,7 +18,7 @@ Deleting an element from the list It is used to delete a node in a specific situ
 
 Searching an element in a given list The search operation is used to search a particular node in a skip list. If we now search for a certain element we don't have to touch every element but starting from the upper levels we follow the right pointers and skip (hence the name) all elements which only exist in lower lists, until we find an element which is bigger than the one we search for. Then we have to go down a level to refine the search, repeat the steps until we either find the element or reach the lowest list and find out that the element is not in the list.
 
-![1](1.PNG)
+![1](1.png)
 
 ## How to implement the Header File in a program
 
