@@ -148,7 +148,7 @@ void display(struct SkipList *list)
 	struct ListNode *temp=list->header;
 	for(int i=list->listLvl;i>=0;i--)
 	{
-		printf("\n");
+		printf("\nnodes at level %d: ",i);
 		while(temp->next[i]!=list->header)
 		{
 			temp=temp->next[i];
