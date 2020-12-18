@@ -1,7 +1,7 @@
 # DSAMiniproject
 DSA Mini Project Group 33
 # Skip List
-
+ https://www.canva.com/design/DAEQWYM75I0/vqMQhQaE4EA04Ze90LIteQ/view
 ## About Skip List
 
 A skip list is a probabilistic data structure. The skip list is used to store a sorted list of elements or data with a linked list. It allows the process of the elements or data to view efficiently. In one single step, it skips several elements of the entire list, which is why it is known as a skip list.
