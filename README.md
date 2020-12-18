@@ -1,14 +1,14 @@
 # DSAMiniproject
 DSA Mini Project Group 33
-#Skip List
+# Skip List
 
-##About Skip List
+## About Skip List
 
 A skip list is a probabilistic data structure. The skip list is used to store a sorted list of elements or data with a linked list. It allows the process of the elements or data to view efficiently. In one single step, it skips several elements of the entire list, which is why it is known as a skip list.
 
 The average insert/update/delete performance of a skip list is O(log(n)).However, skip lists depend on probability to accomplish this result, so it's not guaranteed. In the worst case, which is very uncommon, an operation may be linear in the number of list elements. Because skip list performance is non-deterministic, they are less commonly seen in the wild than other associative data structures.
 
-#How can I Use It?
+# How can I Use It?
 
 However you like, basic operatons using a linked list are shown below,
 
@@ -20,10 +20,10 @@ Searching an element in a given list The search operation is used to search a pa
 
 Pic 1
 
-##How to implement the Header File in a program
+## How to implement the Header File in a program
 
 To make a header file, we have to create one file with a name, and extension should be "".h"". In that function there will be no main() function. In that file, we can put some variables, some functions etc. To use that header file, it should be present at the same directory, where the program is located. Now using #include we have to put the header file name. The name will be inside double quotes. Include syntax will be look like this.
 
 To include the header file in your program use
 
-#include”header_file.h”
+           #include"header_file.h"
