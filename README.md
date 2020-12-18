@@ -1,12 +1,12 @@
 # DSAMiniproject
 DSA Mini Project Group 33
 ## Contributors
-   Palash Pratim Deka (1912097)<br>
-			Nihar Jyoti Basisth (1912099)<br>
-			Anshul Mangal(1912105)<br>
-		 Shikhar Katiyar(1912109)<br>
-			Tushar Sachan(1912113)<br>
-			Krishna Kumar(1912139) <br>
+   Palash Pratim Deka 	(1912097)<br>
+			Nihar Jyoti Basisth	(1912099)<br>
+			Anshul Mangal	(1912105)<br>
+		 Shikhar Katiyar	(1912109)<br>
+			Tushar Sachan	(1912113)<br>
+			Krishna Kumar	(1912139) <br>
 # Skip List
  <a href="https://www.canva.com/design/DAEQWYM75I0/vqMQhQaE4EA04Ze90LIteQ/view">PRESENTATION OF SKIP LIST</a>
 
