@@ -9,7 +9,7 @@ int main(){
 	init_Skiplist(&list,5);
 	while(1)
 	{
-		printf("\n1-insert 2-search 3-delete 4-sum 5-count 6-display 7-exit\t");
+		printf("\n\n1-insert 2-search 3-delete 4-sum 5-count 6-display 7-exit\t");
 		int ch;
 		scanf("%d",&ch);
 		if(ch==7)
@@ -19,7 +19,6 @@ int main(){
 			int num;
 			scanf("%d",&num);
 			insert_list(&list,num);
-			// display(&list);
 		}
 		else if(ch==2)
 		{
@@ -29,8 +28,6 @@ int main(){
 				printf("Found\n");
 			else
 				printf("Not Found\n");				
-			// printf("%d",find_element(&list,num));
-			// display(&list);
 		}
 		else if(ch==3)
 		{
@@ -38,15 +35,10 @@ int main(){
 			scanf("%d",&num);
 			if(!delete_list(&list,num))
 				printf("Number not found to delete\n");
-			// printf("%d",delete_list(&list,num));
-			// display(&list);
 		}
 		else if(ch==4)
 		{
-			// int num;
-			// scanf("%d",&num);
 			printf("%d",Accumulate(&list));
-			// display(&list);
 		}
 		else  if(ch==5)		
 		{
@@ -57,6 +49,10 @@ int main(){
 		else if(ch==6)
 		{
 			display(&list);
+		}
+		else
+		{
+			printf("INVALID INPUT\n");
 		}
 	}
 	return 0;
