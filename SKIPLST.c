@@ -1,4 +1,4 @@
-
+/// To show the use of skip list without the header file that we have made.
 #include<stdio.h>
 #include<stdlib.h>
 
