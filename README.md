@@ -15,7 +15,7 @@ DSA Mini Project Group 33
 
 A skip list is a probabilistic data structure. The skip list is used to store a sorted list of elements or data with a linked list. It allows the process of the elements or data to view efficiently. In one single step, it skips several elements of the entire list, which is why it is known as a skip list.
 
-The average insert/update/delete performance of a skip list is O(log(n)).However, skip lists depend on probability to accomplish this result, so it's not guaranteed. In the worst case, which is very uncommon, an operation may be linear in the number of list elements. Because skip list performance is non-deterministic, they are less commonly seen in the wild than other associative data structures.
+The average insert/update/delete performance of a skip list is <b>O(log(n))</b>.However, skip lists depend on probability to accomplish this result, so it's not guaranteed. In the worst case, which is very uncommon, an operation may be linear in the number of list elements. Because skip list performance is non-deterministic, they are less commonly seen in the wild than other associative data structures.
 
 # How can I Use It?
 
