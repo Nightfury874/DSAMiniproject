@@ -35,3 +35,18 @@ To make a header file, we have to create one file with a name, and extension sho
 To include the header file in your program use
 
            #include"header_file.h"
+	   
+	  
+So the snippet:
+`#include<stdio.h>
+#include<stdlib.h>
+#include "SkipList.h"
+int MAXLEVEL;
+
+int main(){
+	struct SkipList list;
+	init_Skiplist(&list,5);
+	while(1)
+	{   ```   
+`
+Is actually including the header file in the File "Test.c"
