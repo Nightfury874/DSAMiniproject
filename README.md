@@ -30,8 +30,8 @@ Searching an element in a given list The search operation is used to search a pa
 
 ## How to implement the Header File in a program
 
-To make a header file, we have to create one file with a name, and extension should be "".h"". In that function there will be no ``` main()``` function. In that file, we can put some variables, some functions etc.<p <b>To use that header file, it should be present at the same directory, where the program is located.</b>
-<p Now using  ```#include``` we have to put the header file name. The name will be inside double quotes. Include syntax will be look like this.
+To make a header file, we have to create one file with a name, and extension should be "".h"". In that function there will be no ``` main()``` function. In that file, we can put some variables, some functions etc.<p> <b>To use that header file, it should be present at the same directory, where the program is located.</b>
+<p> Now using  ```#include``` we have to put the header file name. The name will be inside double quotes. Include syntax will be look like this.
 
 To include the header file in your program use
 
