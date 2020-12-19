@@ -49,5 +49,5 @@ int main(){
 	struct SkipList list;
 	init_Skiplist(&list,5);
 	while(1)
-	{```
+	{
 
