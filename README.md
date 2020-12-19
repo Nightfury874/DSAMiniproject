@@ -37,8 +37,8 @@ To include the header file in your program use
            #include"header_file.h"
 	   
 	  
-So the snippet:
-`#include<stdio.h>
+So the snippet looks like this:
+```#include<stdio.h>
 #include<stdlib.h>
 #include "SkipList.h"
 int MAXLEVEL;
@@ -47,5 +47,5 @@ int main(){
 	struct SkipList list;
 	init_Skiplist(&list,5);
 	while(1)
-	{`
+	{```
 
