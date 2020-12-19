@@ -8,7 +8,7 @@ DSA Mini Project Group 33
 			Tushar Sachan	(1912113)<br>
 			Krishna Kumar	(1912139) <br>
 # Skip List
-![1](1.PNG)
+![01](01.PNG)
  <p><a href="https://www.canva.com/design/DAEQWYM75I0/vqMQhQaE4EA04Ze90LIteQ/view">PRESENTATION OF SKIP LIST</a>
 
 ## About Skip List
